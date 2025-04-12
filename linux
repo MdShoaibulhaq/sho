@@ -1,0 +1,37 @@
+				LINUX COMMANDS
+
+    COMMANDS 	  DESCRIPTION
+
+1.  dd----------deleted curser line
+2.  ndd----------Deleted after curser line
+3.  yy----------copy the curser line
+4.  p ----------paste
+4.  u----------	undo
+5   G---------- curser coming to ground 
+6.  H---------- going to head (shift h)
+7.  dw----------deleted particular word
+8.  yw----------copy the word
+9.  x ----------delete one letter
+10. O ----------create new line
+11. o ----------curser down side create new line
+12. $ ----------end of the line going (esc shift $)
+13. q!----------quit	
+14. J ----------down
+15. k ----------up
+16. L ----------left
+17. H ----------right
+18. /search----->search word
+19. escape R---->replace single character
+20. escape r---->replace after curser
+21. cp A b ----->copy to A file to b file
+22. mv A1 B1/B2--->move to A1 file to B2
+23. cp {-rf} a1-Copy to A1 file
+24. wc test.txt----->total count
+25. wc -L test.txt--->total lines count
+26. wc -c test.txt---->only character
+27. wc-w test.txt----->only words
+28. wc -wl test.txt---->words and letters
+29. Ls -L------->long list (Alphabetic order)
+30. Ls -lt------->long list (time based display)
+31. ls -Ltr------>time based list
+
